@@ -1,6 +1,6 @@
 # firebase-for-linux
 
-<h2><b>Install a specific version of Node.js using NVM</b><h2>
+<h2><b>Install a specific version of Node.js using NVM</h2>
 
 There is another way to install Node.js on a server with Ubuntu 18.04. Using an NVM (Node Version Manager), we can choose a specific version to install. It’s great if you want to use an LTS version or just the latest version available.
 
