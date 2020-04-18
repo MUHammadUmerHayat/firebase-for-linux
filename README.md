@@ -79,9 +79,10 @@ Use Existing Project
 
 Public Folder(write y) ,you will see public named folder in you folder
 
-in public folder,Replace index.html with your web files
+In public folder,Replace index.html with your web files
 
-firebase deploy    
+
+            firebase deploy    
 
 Conguratulation,
             
