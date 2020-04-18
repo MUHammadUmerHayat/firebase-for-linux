@@ -54,3 +54,38 @@ Checking Installed Node.js version
            
 
 Congrats, everything went well. Node.js and firebase is correctly installed and ready to use.
+
+
+<h1>How to deploy</h1>
+
+At first,you have to make project by going on 
+
+https://firebase.google.com/?gclid=Cj0KCQjwyur0BRDcARIsAEt86IAJ2xzDNVmGnQRY3VDlXATJStv3NUc7tyMOwLByLPENe5_XScrt5pMaAi_uEALw_wcB)
+
+then on terminal,run
+     
+            firebase login
+
+Now, go to the folder where your all files exist like index.html,style.css 
+Right click and open in terminal.
+Now run,
+    
+    
+            firebase init
+            
+            
+            
+Use Existing Project
+
+Public Folder(write y) ,you will see public named folder in you folder
+
+in public folder,Replace index.html with your web files
+
+firebase deploy    
+
+Conguratulation,
+            
+            
+ 
+
+
