@@ -85,6 +85,12 @@ In public folder,Replace index.html with your web files
             firebase deploy    
 
 Conguratulation,
+
+
+You can see my assignments here
+
+https://ridashoaib-portfolios.web.app/
+  
             
             
  
